@@ -1,0 +1,24 @@
+{
+  "name": "spider",
+  "version": "1.0.0",
+  "description": "yet another web spider",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerogvt/node-spider.git"
+  },
+  "scripts": {
+    "test": "npm test",
+    "start": "node src"
+  },
+  "keywords": [
+    "spider",
+    "web"
+  ],
+  "author": "vas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zerogvt/node-spider/issues"
+  },
+  "homepage": "https://github.com/zerogvt/node-spider#readme"
+}
