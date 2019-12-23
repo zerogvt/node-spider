@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/zerogvt/node-spider/issues"
   },
-  "homepage": "https://github.com/zerogvt/node-spider#readme"
+  "homepage": "https://github.com/zerogvt/node-spider#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "request": "^2.88.0",
+    "slug": "^1.1.0"
+  }
 }
